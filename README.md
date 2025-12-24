@@ -60,8 +60,8 @@ QQ群号：996321868
 
 开源不易，如果这个项目对你有所帮助，可以请我喝杯咖啡：
 
-<img src="./screen/image copy.png" width="300" alt="支付宝收款码"/>
-<img src="./screen/image copy 2.png" width="300" alt="微信收款码"/>
+<!-- <img src="./screen/image copy.png" width="300" alt="支付宝收款码"/> -->
+<img src="./screen/image.png" width="300" alt="微信收款码"/>
 
 ## 特别鸣谢
 
